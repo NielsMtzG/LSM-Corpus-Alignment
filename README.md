@@ -17,7 +17,7 @@ Each video was automatically cropped to include only the interpreter’s square.
 
 To ensure consistency, videos are renamed according to the original conference date. Each video also includes a corresponding .ass subtitle file with the same name, containing word-level timestamps generated with Whisper.
 
-When downloaded together and placed in the same directory, the subtitles automatically synchronize with the audio, highlighting the spoken words in real time — as shown below:
+When downloaded together and placed in the same directory, the subtitles automatically synchronize with the audio, highlighting the spoken words in real time as shown below:
 <img width="1112" height="1069" alt="image" src="https://github.com/user-attachments/assets/c937d608-2420-430f-b26f-e265eae6bcd7" />
 
 
